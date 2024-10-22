@@ -69,3 +69,14 @@ console.log(typeof stringNumber)
 typeof:string
 value:33
  */
+
+
+
+
+
+
+
+
+
+
+
