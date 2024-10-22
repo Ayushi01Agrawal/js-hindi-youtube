@@ -1,6 +1,6 @@
 # js-hindi-youtube
 ### Short Cut : Add  Dev Configure File -> ctrl+shift+p(codespace)
-###Variable scope
+### Variable scope
 -- Global scope: The default scope for all code running in script mode.
 -- Module scope: The scope for code running in module mode.
 -- Function scope: The scope created with a function.
